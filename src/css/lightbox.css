@@ -127,9 +127,7 @@ body:after {
   left: 3%;
   
   font-family: "Glyphicons Halflings";
-  font-size: 35px;
   color: white;
-  text-shadow: 2px 5px 5px #666;
 }
 
 .lb-nav a.lb-prev:hover {
@@ -157,9 +155,7 @@ body:after {
   right: 3%;
   
   font-family: "Glyphicons Halflings";
-  font-size: 35px;
   color: white;
-  text-shadow: 2px 5px 5px #666;  
 }
 
 .lb-nav a.lb-next:hover {
@@ -231,7 +227,6 @@ body:after {
   content: "\e014";
   
   font-family: "Glyphicons Halflings";
-  font-size: 25px;
   color: white;
   
   line-height: 1;
