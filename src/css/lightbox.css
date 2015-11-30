@@ -124,7 +124,7 @@ body:after {
   
   position: absolute;
   top: 48%;
-  left: 3%;
+  left: 15px;
   
   font-family: "Glyphicons Halflings";
   color: white;
@@ -152,7 +152,7 @@ body:after {
   
   position: absolute;
   top: 48%;
-  right: 3%;
+  right: 15px;
   
   font-family: "Glyphicons Halflings";
   color: white;
